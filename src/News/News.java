@@ -4,7 +4,7 @@ import java.nio.file.Path;
 import java.util.ArrayList;
 
 /**
- * Created by gaoyuan
+ * Created by gaoyuanb
  * Create on 2016/4/6.
  */
 public class News {
